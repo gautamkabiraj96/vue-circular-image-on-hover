@@ -1,2 +1,2 @@
-# vue-circular-image-on-hover
+# vue-enlarge-image-on-hover-example
 Created with CodeSandbox
